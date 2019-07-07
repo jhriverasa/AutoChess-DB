@@ -1,62 +1,2069 @@
 {
-    "pieces": [
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief",
-      "Redaxe Chief"
+  "pieces": [
+    {"data":
       
-    ]
-  }
+      {
+        "Name": "Redaxe Chiefs",
+        "Dota Name": "Axe",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 700,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 52,
+          "ATK Speed": 1.5
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 1400,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 105,
+          "ATK Speed": 1.5
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 2800,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 210,
+          "ATK Speed": 1.5
+        },
+        "ATK Range": 1,
+        "Tags" : ["Durable", "Disabler"],
+        "Race":["Cave Clan"],
+        "Class":["Warrior"],
+        "Ulti":"Taunt nearby (1 grids) enemy units, forcing them to attack you. Gain bonus armor (5/10/15) armor during (2/3/4) s.",
+        "CD" : ["10", "10", "10"] 
+        
+      }
+    },
+    {"data":
+      
+      {
+        "Name": "Tusk Champion",
+        "Dota Name": "Tusk",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 650,
+          "Armor": 5,
+          "Magic Resist": 0
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 1300,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 105,
+          "ATK Speed": 1.5
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 2600,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 210,
+          "ATK Speed": 1.5
+        },
+        "ATK Range": 1,
+        "Tags" : ["Durable", "Disabler"],
+        "Race":["Cave Clan"],
+        "Class":["Warrior"],
+          "Ulti":"Taunt nearby (1 grids) enemy units, forcing them to attack you. Gain bonus armor (5/10/15) armor during (2/3/4)s.",
+          "CD" :  ["7", "7", "7"] 
+      }
+    },
+    {"data":
+      
+      {
+        "Name": "Unicorn",
+        "Dota Name": "Enchantress",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 650,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 52,
+          "ATK Speed": 1.5
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 1300,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 105,
+          "ATK Speed": 1.5
+
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 2600,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 210,
+          "ATK Speed": 1.5
+        },
+        "ATK Range": 3,
+        "Tags" : ["Healer"],
+        "Race":["Beast"],
+        "Class":["Druid"],
+        "Ulti":"Deal 20HP healing every 1.5s to (3/5/7)s random allied units wihin 3 grid lasting 11s.",
+        "CD" :  ["15", "15", "15"]  
+      }
+    },
+    {"data":
+      
+      {
+        "Name": "Frost Knight",
+        "Dota Name": "Batrider",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 500,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 47,
+          "ATK Speed": 1.3
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 1000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 95,
+          "ATK Speed": 1.3
+
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 2000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 190,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 3,
+        "Tags" : ["Carry", "Disabler"],
+        "Race":["Glacier"],
+        "Class":["Knight"],
+        "Ulti":"Slow enemy units within 2-grid radius 1 seconds of their movement and taking bonus (50/75/100) damage every time Frost Knight attacks. Stacks up to (4/7/10) times and lasts 20s",
+         "CD" : ["3", "3", "3"] 
+      }
+    },
+    {"data":
+      
+      {
+        "Name": "Defector",
+        "Dota Name": "Shadow Shaman",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 550,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 45,
+          "ATK Speed": 1.5
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 1100,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 90,
+          "ATK Speed": 1.3
+
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 2200,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 180,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 3,
+        "Tags" : ["Disabler"],
+        "Race":["Glacier"],
+        "Class":["Shaman"],
+        "Ulti":"Transforms an enemy piece into a harmless penguin, disabling their attacks and abilities in (4/6/8)s",
+        "CD" : ["10", "9", "8"] 
+      }
+    },
+    {"data":
+      
+      {
+        "Name":"Egersis Ranger",
+        "Dota Name": "Drow Ranger",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 400,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 45,
+          "ATK Speed": 1.5
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 800,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 90,
+          "ATK Speed": 1.3
+
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 1600,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 180,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 4,
+        "Tags" : ["Carry"],
+        "Race":["Egersis"],
+        "Class":["Hunter"],
+        "Ulti":"Increases (20/30/40)% attack speed and (20/30/40)% damage for itself",
+        "CD" : ["Passive", "Passive", "Passive"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Soul Breaker",
+        "Dota Name": "Bounty hunter",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 550,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 60,
+          "ATK Speed": 1.0
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 1100,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 120,
+          "ATK Speed": 1.0
+
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 2200,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 240,
+          "ATK Speed": 1.0
+        },
+        "ATK Range": 1,
+        "Tags" : ["Carry", "Nuker"],
+        "Race":["Assassin"],
+        "Class":["Hunter"],
+        "Ulti":"Hurls a deadly shuriken at a random enemy unit, dealing (300/500/700) Magical damage and stunning for 0.1s",
+        "CD" : ["5", "5", "5"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Sky Breaker",
+        "Dota Name": "Clockwerk",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 700,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 50,
+          "ATK Speed": 1.4
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 1400,
+          "Armor": 7,
+          "Magic Resist": 0,
+          "ATK" : 100,
+          "ATK Speed": 1.4
+
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 2200,
+          "Armor": 9,
+          "Magic Resist": 0,
+          "ATK" : 200,
+          "ATK Speed": 1.4
+        },
+        "ATK Range": 1,
+        "Tags" : ["Durable", "Disabler"],
+        "Race":["Goblin"],
+        "Class":["Mech"],
+        "Ulti":"Discharges high powered shrapnel at random nearby enemy chess pieces within 2 grids, dealing (50/75/100) magical damage and stunning for 0.1s every 0.7s up to 5s",
+        "CD" : ["12", "10", "8"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Heaven Bomber",
+        "Dota Name": "Tinker",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 500,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 45,
+          "ATK Speed": 1.5
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 1000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 90,
+          "ATK Speed": 1.5
+
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 2000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 180,
+          "ATK Speed": 1.5
+        },
+        "ATK Range": 4,
+        "Tags" : ["Nuker"],
+        "Race":["Goblin"],
+        "Class":["Mech"],
+        "Ulti":"Launches 3 rockets to strick random enemy chess pieces, each missile deals (150/250/350) damage to a random enemy unit",
+        "CD" : ["8", "6", "4"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Taboo Witcher",
+        "Dota Name": "Antimage",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 500,
+          "Armor": 5,
+          "Magic Resist": 10,
+          "ATK" : 50,
+          "ATK Speed": 1.2
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 1000,
+          "Armor": 5,
+          "Magic Resist": 20,
+          "ATK" : 100,
+          "ATK Speed": 1.2
+
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 2000,
+          "Armor": 5,
+          "Magic Resist": 30,
+          "ATK" : 200,
+          "ATK Speed": 1.2
+        },
+        "ATK Range": 1,
+        "Tags" : ["Disabler"],
+        "Race":["Feathered"],
+        "Class":["Witcher"],
+        "Ulti":"Burns an opponent's (30/60/90) mana on each attack, dealing 60% of mana burnt bonus physical damage to the target.",
+        "CD" : ["Passive", "Passive", "Passive"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Ogre Mage",
+        "Dota Name": "Ogre Magi",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 700,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 60,
+          "ATK Speed": 1.4
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 1400,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 120,
+          "ATK Speed": 1.2
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 2000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 240,
+          "ATK Speed": 1.4
+        },
+        "ATK Range": 1,
+        "Tags" : ["Support, Durable"],
+        "Race":["Kira"],
+        "Class":["Mage"],
+        "Ulti":"Increase a random allied piece's attack speed for (30/50/70)% in 30s.",
+        "CD" : ["5", "5", "5"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Stone Spirit",
+        "Dota Name": "Tiny",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 650,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 80,
+          "ATK Speed": 1.8
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 1300,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 160,
+          "ATK Speed": 1.8
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 2600,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 320,
+          "ATK Speed": 1.8
+        },
+        "ATK Range": 1,
+        "Tags" : ["Disabler", "Durable"],
+        "Race":["Spirits"],
+        "Class":["Warrior"],
+        "Ulti":"Grab a nearby enemy within 1 grids, and lunches it at the farthest grid, to deal (100/200/300) physical damage and stun for (1.5/2.0/2.5)s where they land.",
+        "CD" : ["10", "10", "10"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "God of War",
+        "Dota Name": "Mars",
+        "Lvl 1":  {
+          "Price": 1,
+          "HP": 650,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 0,
+          "ATK Speed": 1.4
+        },
+        "Lvl 2":  {
+          "Price": 3,
+          "HP": 1300,
+          "Armor": 7,
+          "Magic Resist": 0,
+          "ATK" : 0,
+          "ATK Speed": 1.4
+        },
+        "Lvl 3":  {
+          "Price": 5,
+          "HP": 2600,
+          "Armor": 9,
+          "Magic Resist": 0,
+          "ATK" : 320,
+          "ATK Speed": 1.4
+        },
+        "ATK Range": 1,
+        "Tags" : ["Escape", "Durable", "Nuker"],
+        "Race":["God"],
+        "Class":["Warrior"],
+        "Ulti":"Reduces Physical Damage  by 30% upon receiving attacks from the front and 15% from de side. Meanwhile, deals 150 Physical Damage to enemies within 3 grids ahead every 8s",
+        "CD" : ["8", "8", "8"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Swordman",
+        "Dota Name": "Juggernaut",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 600,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 67,
+          "ATK Speed": 1.1
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 1200,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 135,
+          "ATK Speed": 1.1
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 2400,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 270,
+          "ATK Speed": 1.1
+        },
+        "ATK Range": 1,
+        "Tags" : ["Carry"],
+        "Race":["Cave Clan"],
+        "Class":["Warrior"],
+        "Ulti":"Deals (50/100/150) magical dmg per second to enemy units within 1 grids in 5s",
+        "CD" : ["12", "12", "12"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Skull Hunter",
+        "Dota Name": "Beastmaster",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 650,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 65,
+          "ATK Speed": 1.3
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 1300,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 130,
+          "ATK Speed": 1.3
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 2600,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 260,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 1,
+        "Tags" : ["Durable"],
+        "Race":["Cave Clan"],
+        "Class":["Hunter"],
+        "Ulti":"Throws two flying axes, dealing (80/120/160 physical damage to enemy units along their path and amplifying (10/20/30)% of subsequent damage from Skull Hunter in following 5s.",
+        "CD" : ["7", "7", "7"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Desperate Doctor",
+        "Dota Name": "Witch Doctor",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 550,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 45,
+          "ATK Speed": 1.4
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 1100,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 90,
+          "ATK Speed": 1.4
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 2200,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 180,
+          "ATK Speed": 1.4
+        },
+        "ATK Range": 3,
+        "Tags" : ["Disabler"],
+        "Race":["Glacier"],
+        "Class":["Warlock"],
+        "Ulti":"Launches a cask of paralyzing powder that ricochets between enemy chess pieces up to (5/7/9) times, dealing (75/100/125) magical damage and stunning those it hits for 1 seconds.",
+        "CD" : ["10", "10", "10"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Abyssal Guard",
+        "Dota Name": "Slardar",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 650,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 85,
+          "ATK Speed": 1.2
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 1300,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 170,
+          "ATK Speed": 1.2
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 2600,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 340,
+          "ATK Speed": 1.2
+        },
+        "ATK Range": 1,
+        "Tags" : ["Durable", "Debuff", "Carry"],
+        "Race":["Marine"],
+        "Class":["Warrior"],
+        "Ulti":"Randomly reduces (15/30/45) armor to an enemy unit for 20s.",
+        "CD" : ["3", "3", "3"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Abyssalcrawler",
+        "Dota Name": "Slark",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 500,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 55,
+          "ATK Speed": 1.0
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 1000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 110,
+          "ATK Speed": 1.0
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 2000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 200,
+          "ATK Speed": 1.0
+        },
+        "ATK Range": 1,
+        "Tags" : ["Escape"],
+        "Race":["Marine"],
+        "Class":["Assassin"],
+        "Ulti":"Enter into stealth and restore (3/6/9)%.",
+        "CD" : ["8", "7", "6"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "The Source",
+        "Dota Name": "Crystal Maiden",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 450,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 42,
+          "ATK Speed": 1.7
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 900,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 85,
+          "ATK Speed": 1.7
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 2800,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 170,
+          "ATK Speed": 1.7
+        },
+        "ATK Range": 4,
+        "Tags" : ["Support"],
+        "Race":["Human"],
+        "Class":["Mage"],
+        "Ulti":"Grants (10/18/26) mana regen for all allied pieces every 2s.",
+        "CD" : ["Passive", "Passive", "Passive"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Shining Dragon",
+        "Dota Name": "Puck",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 450,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 45,
+          "ATK Speed": 1.7
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 900,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 90,
+          "ATK Speed": 1.7
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 1800,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 180,
+          "ATK Speed": 1.7
+        },
+        "ATK Range": 3,
+        "Tags" : ["Nuker"],
+        "Race":["Dragon", "Feathered"],
+        "Class":["Mage"],
+        "Ulti":"Launches a shadow that floats in a straight path, dealing (150/200/250) magical damage to enemies along the way.",
+        "CD" : ["5", "4", "3"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Ripper",
+        "Dota Name": "Timbersaw",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 800,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 57,
+          "ATK Speed": 1.4
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 1600,
+          "Armor": 7,
+          "Magic Resist": 0,
+          "ATK" : 115,
+          "ATK Speed": 1.4
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 3200,
+          "Armor": 9,
+          "Magic Resist": 0,
+          "ATK" : 230,
+          "ATK Speed": 1.4
+        },
+        "ATK Range": 1,
+        "Tags" : ["Durable", "Nuker"],
+        "Race":["Goblin"],
+        "Class":["Mech"],
+        "Ulti":"Deals (150/200/250) pure damage to enemy units within 2 grids.",
+        "CD" : ["6", "5", "4"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Hell Knight",
+        "Dota Name": "Chaos Knight",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 700,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 75,
+          "ATK Speed": 1.2
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 1400,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 155,
+          "ATK Speed": 1.2
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 2800,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 300,
+          "ATK Speed": 1.2
+        },
+        "ATK Range": 1,
+        "Tags" : ["Durable", "Disabler", "Carry"],
+        "Race":["Demon"],
+        "Class":["Knight"],
+        "Ulti":"Deals (50-200/100-300/150-400) magical damage and stuns a random enemy piece for (1-2/1-3/1-4) seconds",
+        "CD" : ["5", "5", "5"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Phantom Queen",
+        "Dota Name": "Queen of Pain",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 550,
+          "Armor": 0,
+          "Magic Resist": 0,
+          "ATK" : 57,
+          "ATK Speed": 1.2
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 1100,
+          "Armor": 0,
+          "Magic Resist": 0,
+          "ATK" : 115,
+          "ATK Speed": 1.2
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 2200,
+          "Armor": 0,
+          "Magic Resist": 0,
+          "ATK" : 230,
+          "ATK Speed": 1.2
+        },
+        "ATK Range": 3,
+        "Tags" : ["Nuker", "Carry"],
+        "Race":["Demon"],
+        "Class":["Assassin"],
+        "Ulti":"Deals (200/300/400) magical damage to nearby enemies within 3 grids",
+        "CD" : ["6", "6", "6"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Lightblade Knight",
+        "Dota Name": "Luna",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 500,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 55,
+          "ATK Speed": 1.3
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 1000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 110,
+          "ATK Speed": 1.3
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 2000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 220,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 3,
+        "Tags" : ["Carry"],
+        "Race":["Feathered"],
+        "Class":["Knight"],
+        "Ulti":"Attacks bounce between enemy pieces for at most (3/4/5) times reducing 30% damage for every time it bounces",
+        "CD" : ["Passive", "Passive", "Passive"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Wisper Seer",
+        "Dota Name": "Nature's prophet",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 500,
+          "Armor": 0,
+          "Magic Resist": 0,
+          "ATK" : 47,
+          "ATK Speed": 1.4
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 1000,
+          "Armor": 0,
+          "Magic Resist": 0,
+          "ATK" : 95,
+          "ATK Speed": 1.4
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 1900,
+          "Armor": 0,
+          "Magic Resist": 0,
+          "ATK" : 190,
+          "ATK Speed": 1.4
+        },
+        "ATK Range": 3,
+        "Tags" : ["Summoner"],
+        "Race":["Feathered"],
+        "Class":["Knight"],
+        "Ulti":"Call a (Small/Medium/Powerful) trant from a random slot of the edge of chessboard to battle for you",
+        "CD" : ["7", "7", "7"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Water Spirit",
+        "Dota Name": "Morphling",
+        "Lvl 1":  {
+          "Price": 2,
+          "HP": 550,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 57,
+          "ATK Speed": 1.3
+        },
+        "Lvl 2":  {
+          "Price": 4,
+          "HP": 1100,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 115,
+          "ATK Speed": 1.3
+        },
+        "Lvl 3":  {
+          "Price": 6,
+          "HP": 2200,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 230,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 3,
+        "Tags" : ["Nuker"],
+        "Race":["Spirits"],
+        "Class":["Assassin"],
+        "Ulti":"Charges to the farthest enemy piece, dealing (200/300/400) magical damage to enemies in his path.",
+        "CD" : ["10", "8", "6"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Lord of Sand",
+        "Dota Name": "Sand king",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 600,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 52,
+          "ATK Speed": 1.4
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 1200,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 105,
+          "ATK Speed": 1.4
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 2400,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 210,
+          "ATK Speed": 1.4
+        },
+        "ATK Range": 1,
+        "Tags" : ["Disabler"],
+        "Race":["Beast"],
+        "Class":["Assassin"],
+        "Ulti":"Burrows into the ground and tunnels to the farthest piece on the board, dealing (150/250/350) damage and stun enemy units in the path for 2s",
+        "CD" : ["10", "8", "6"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Poisonous worm",
+        "Dota Name": "Venomancer",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 600,
+          "Armor": 0,
+          "Magic Resist": 20,
+          "ATK" : 55,
+          "ATK Speed": 1.2
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 1200,
+          "Armor": 0,
+          "Magic Resist": 20,
+          "ATK" : 110,
+          "ATK Speed": 1.2
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 2400,
+          "Armor": 0,
+          "Magic Resist": 20,
+          "ATK" : 220,
+          "ATK Speed": 1.2
+        },
+        "ATK Range": 3,
+        "Tags" : ["Summoner", "Debuff"],
+        "Race":["Beast"],
+        "Class":["Warlock"],
+        "Ulti":"Summons and unmovable plague ward which slows 40% of target's attack speed in 5s. Plague ward is immune to magical damage",
+        "CD" : ["5", "4", "3"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Evil Knight",
+        "Dota Name": "Abaddon",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 750,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 50,
+          "ATK Speed": 1.3
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 1500,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 100,
+          "ATK Speed": 1.3
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 3000,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 200,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 1,
+        "Tags" : ["Support", "Durable"],
+        "Race":["Egersis"],
+        "Class":["Knight"],
+        "Ulti":"Creates a shield that absorbs (100/150/200) damage in 10s for an allied piece. When the shield is destroyed it will burst and deal damage equal to the amount absorbed to an area of 3 radius around it.",
+        "CD" : ["12", "12", "12"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Werewolf",
+        "Dota Name": "Lycan",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 750,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 55,
+          "ATK Speed": 1.1
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 1500,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 110,
+          "ATK Speed": 1.1
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 3000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 220,
+          "ATK Speed": 1.1
+        },
+        "ATK Range": 1,
+        "Tags" : ["Summoner", "Carry"],
+        "Race":["Human","Beast"],
+        "Class":["Warrior"],
+        "Ulti":"Assumes his lupine form, granting him bonus (20/30/40)% max HP and summons 2 wolves to battle.",
+        "CD" : ["60", "60", "60"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Argali Knight",
+        "Dota Name": "Chen",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 700,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 55,
+          "ATK Speed": 1.4
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 1400,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 110,
+          "ATK Speed": 1.4
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 2800,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 220,
+          "ATK Speed": 1.4
+        },
+        "ATK Range": 1,
+        "Tags" : ["Healer", "Durable"],
+        "Race":["Human"],
+        "Class":["Knight"],
+        "Ulti":"Deals (250/350/450) healing to a friendly chess and (250/350/450) pure damage to all nearby enemy within two grids",
+        "CD" : ["10", "10", "10"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Flamming Wizard",
+        "Dota Name": "Lina",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 600,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 52,
+          "ATK Speed": 1.3
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 1200,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 105,
+          "ATK Speed": 1.3
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 2400,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 210,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 4,
+        "Tags" : ["Nuker"],
+        "Race":["Human"],
+        "Class":["Mage"],
+        "Ulti":"Deals (500/750/1000) Magical Damage to 1 random enemy pice and increases its own attack speed by (40/60/80)% for 30s. Can be stacked up to 2 times",
+        "CD" : ["10", "7", "5"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Venom",
+        "Dota Name": "Viper",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 550,
+          "Armor": 5,
+          "Magic Resist": 20,
+          "ATK" : 55,
+          "ATK Speed": 1.0
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 1100,
+          "Armor": 5,
+          "Magic Resist": 20,
+          "ATK" : 110,
+          "ATK Speed": 1.0
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 2200,
+          "Armor": 5,
+          "Magic Resist": 20,
+          "ATK" : 220,
+          "ATK Speed": 1.0
+        },
+        "ATK Range": 3,
+        "Tags" : ["Debuff","Nuker"],
+        "Race":["Dragon"],
+        "Class":["Assassin"],
+        "Ulti":"Slows the targeted enemy units (40/60/80)% attack speed and deals (150/250/350) Magical damage per second in 5s",
+        "CD" : ["10", "7", "4"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Dwarf Sniper",
+        "Dota Name": "Sniper",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 450,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 75,
+          "ATK Speed": 1.1
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 900,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 150,
+          "ATK Speed": 1.1
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 1800,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 300,
+          "ATK Speed": 1.1
+        },
+        "ATK Range": 4,
+        "Tags" : ["Nuker", "Carry"],
+        "Race":["Dwarf"],
+        "Class":["Hunter"],
+        "Ulti":"Locks onto a target piece and, after 0.5s of aiming, fire a shot that deals (400/600/800) magical damage to target.",
+        "CD" : ["10", "10", "10"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Shadow Devil",
+        "Dota Name": "Shadow Fiend",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 450,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 80,
+          "ATK Speed": 1.1
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 900,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 160,
+          "ATK Speed": 1.1
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 1800,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 320,
+          "ATK Speed": 1.1
+        },
+        "ATK Range": 4,
+        "Tags" : ["Nuker", "Carry"],
+        "Race":["Demon"],
+        "Class":["Warlock"],
+        "Ulti":"Releases (8/9/10) demonic energy waves and each of which deals (150/200/250) damage to enemy units in the path.",
+        "CD" : ["20", "20", "20"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Fallen Witcher",
+        "Dota Name": "Terrorblade",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 700,
+          "Armor": 5,
+          "Magic Resist": 10,
+          "ATK" : 60,
+          "ATK Speed": 1.4
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 1400,
+          "Armor": 5,
+          "Magic Resist": 20,
+          "ATK" : 120,
+          "ATK Speed": 1.4
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 2800,
+          "Armor": 5,
+          "Magic Resist": 30,
+          "ATK" : 240,
+          "ATK Speed": 1.4
+        },
+        "ATK Range": 1,
+        "Tags" : ["Carry"],
+        "Race":["Demon"],
+        "Class":["Witcher"],
+        "Ulti":"Exchanges current HP with an allid piece and transforms into a powerful form with a ranged attac, granting him bonus +(50/75/100)% attack speed and +(100/150/200) dmg for 60s upon transformation.",
+        "CD" : ["60", "60", "60"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Wind Ranger",
+        "Dota Name": "Windranger",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 550,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 60,
+          "ATK Speed": 0.9
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 1100,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 120,
+          "ATK Speed": 0.9
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 2200,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 240,
+          "ATK Speed": 0.9
+        },
+        "ATK Range": 4,
+        "Tags" : ["Nuker"],
+        "Race":["Feathered"],
+        "Class":["Hunter"],
+        "Ulti":"Charges the bow for up to 2s dealing at most (400/600/800) magical damage to enemy units in the path.For each enemy that powershot hits, its magical damage is reduced by 10%.",
+        "CD" : ["10", "10", "10"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Shadowcrawler",
+        "Dota Name": "Phantom Assassin",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 550,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 90,
+          "ATK Speed": 1.2
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 1100,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 180,
+          "ATK Speed": 1.2
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 2200,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 360,
+          "ATK Speed": 1.2
+        },
+        "ATK Range": 1,
+        "Tags" : ["Carry","Nuker"],
+        "Race":["Feathered"],
+        "Class":["Assasin"],
+        "Ulti":"Has a 10% chance of delivering a critical strike of (3/4.5/6) times to enemy units.",
+        "CD" : ["Passive", "Passive", "Passive"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Warpwood sage",
+        "Dota Name": "Treant Protector",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 650,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 75,
+          "ATK Speed": 2.0
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 1300,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 150,
+          "ATK Speed": 2.0
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 2300,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 300,
+          "ATK Speed": 2.0
+        },
+        "ATK Range": 1,
+        "Tags" : ["Durable","Healer"],
+        "Race":["Feathered"],
+        "Class":["Druid"],
+        "Ulti":"Deals (37.5/56.2/75) healing to a friendly chess and (37.5/56.2/75) magical damage to all nearby units within 3 grids for 5s",
+        "CD" : ["7", "7", "7"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Thunder Spirit",
+        "Dota Name": "Razor",
+        "Lvl 1":  {
+          "Price": 3,
+          "HP": 750,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 55,
+          "ATK Speed": 1.1
+        },
+        "Lvl 2":  {
+          "Price": 5,
+          "HP": 1500,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 110,
+          "ATK Speed": 1.1
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 3000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 220,
+          "ATK Speed": 1.1
+        },
+        "ATK Range": 3,
+        "Tags" : ["Nuker"],
+        "Race":["Spirits"],
+        "Class":["Mage"],
+        "Ulti":"Release a wave of plasma that grows in  power as it expands, dealing (100/175/250) magical damage in max radius of (3/4/4)",
+        "CD" : ["10", "10", "10"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Storm Shaman",
+        "Dota Name": "Disruptor",
+        "Lvl 1":  {
+          "Price": 4,
+          "HP": 750,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 47,
+          "ATK Speed": 1.5
+        },
+        "Lvl 2":  {
+          "Price": 6,
+          "HP": 1500,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 95,
+          "ATK Speed": 1.5
+        },
+        "Lvl 3":  {
+          "Price": 8,
+          "HP": 3000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 190,
+          "ATK Speed": 1.5
+        },
+        "ATK Range": 4,
+        "Tags" : ["Disabler"],
+        "Race":["Cave Clan"],
+        "Class":["Shaman"],
+        "Ulti":"Creates a damaging static storms that also silence  enemy units in the are for (2.5/3.5/4.5)seconds . Dealing as maximum as (150/200/250) magical damage per second.",
+        "CD" : ["15", "15", "15"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Razorclaw",
+        "Dota Name": "Lone Druid",
+        "Lvl 1":  {
+          "Price": 4,
+          "HP": 800,
+          "Armor": 0,
+          "Magic Resist": 20,
+          "ATK" : 55,
+          "ATK Speed": 1.3
+        },
+        "Lvl 2":  {
+          "Price": 6,
+          "HP": 1600,
+          "Armor": 0,
+          "Magic Resist": 20,
+          "ATK" : 110,
+          "ATK Speed": 1.3
+        },
+        "Lvl 3":  {
+          "Price": 7,
+          "HP": 3000,
+          "Armor": 0,
+          "Magic Resist": 20,
+          "ATK" : 220,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 3,
+        "Tags" : ["Summoner","Disabler","Durable"],
+        "Race":["Beast"],
+        "Class":["Druid"],
+        "Ulti":"Summon a spirit bear level (1/2/3)  with an entangling claw ability. Entangling claw have a 20% chance to entangle an enmy unit for 3s.",
+        "CD" : ["60", "60", "60"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Berserker",
+        "Dota Name": "Troll Warlord",
+        "Lvl 1":  {
+          "Price": 4,
+          "HP": 900,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 100,
+          "ATK Speed": 1.1
+        },
+        "Lvl 2":  {
+          "Price": 6,
+          "HP": 1600,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 200,
+          "ATK Speed": 1.1
+        },
+        "Lvl 3":  {
+          "Price": 8,
+          "HP": 3600,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 400,
+          "ATK Speed": 1.1
+        },
+        "ATK Range": 3,
+        "Tags" : ["Carry"],
+        "Race":["Glacier"],
+        "Class":["Warrior"],
+        "Ulti":"Witch each continuous blow on the same target gaining a bonus of (15/20/25)% attack speed up to  (6/9/12) attacks. After changing targets, stacks drop to zero.",
+        "CD" : ["Passive", "Passive", "Passive"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Soul Reaper",
+        "Dota Name": "Necrophos",
+        "Lvl 1":  {
+          "Price": 4,
+          "HP": 850,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 55,
+          "ATK Speed": 1.2
+        },
+        "Lvl 2":  {
+          "Price": 6,
+          "HP": 1700,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 110,
+          "ATK Speed": 1.2
+        },
+        "Lvl 3":  {
+          "Price": 8,
+          "HP": 3400,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 220,
+          "ATK Speed": 1.2
+        },
+        "ATK Range": 3,
+        "Tags" : ["Healer"],
+        "Race":["Egersis"],
+        "Class":["Warlock"],
+        "Ulti":"Deals (100/175/250) magical damage to enemy units and (100/150/200) heal to allied units in 3 radius.",
+        "CD" : ["5", "5", "5"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Siren",
+        "Dota Name": "Medusa",
+        "Lvl 1":  {
+          "Price": 4,
+          "HP": 750,
+          "Armor": 5,
+          "Magic Resist": 10,
+          "ATK" : 60,
+          "ATK Speed": 1.2
+        },
+        "Lvl 2":  {
+          "Price": 6,
+          "HP": 1500,
+          "Armor": 5,
+          "Magic Resist": 10,
+          "ATK" : 120,
+          "ATK Speed": 1.2
+        },
+        "Lvl 3":  {
+          "Price": 8,
+          "HP": 3000,
+          "Armor": 5,
+          "Magic Resist": 10,
+          "ATK" : 240,
+          "ATK Speed": 1.2
+        },
+        "ATK Range": 4,
+        "Tags" : ["Disabler"],
+        "Race":["Marine"],
+        "Class":["Hunter"],
+        "Ulti":"Druing (3/4/5)s, any enemy units in (4/6/7) radius lookin at Siren will have their attack speed slowed. If 2 seconds at total time is accumutaled looking at Siren, taht piece will turn to stone for (2/2.5/3)s.",
+        "CD" : ["20", "20", "20"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Pirate Captain",
+        "Dota Name": "Kunkka",
+        "Lvl 1":  {
+          "Price": 4,
+          "HP": 950,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 82,
+          "ATK Speed": 1.3
+        },
+        "Lvl 2":  {
+          "Price": 6,
+          "HP": 1900,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 165,
+          "ATK Speed": 1.3
+        },
+        "Lvl 3":  {
+          "Price": 8,
+          "HP": 3800,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 330,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 1,
+        "Tags" : ["Disabler"],
+        "Race":["Human"],
+        "Class":["Warrior"],
+        "Ulti":"Summon a ghostly ship smashes the target area, causing (1/1.5/2)s of stunning and (150/250/350) magical damage.",
+        "CD" : ["15", "12", "9"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Dragon Knight",
+        "Dota Name": "Dragon Knight",
+        "Lvl 1":  {
+          "Price": 4,
+          "HP": 800,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" :55,
+          "ATK Speed": 1.2
+        },
+        "Lvl 2":  {
+          "Price": 6,
+          "HP": 1600,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 110,
+          "ATK Speed": 1.2
+        },
+        "Lvl 3":  {
+          "Price": 8,
+          "HP": 3200,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 220,
+          "ATK Speed": 1.2
+        },
+        "ATK Range": 1,
+        "Tags" : ["Carry","Debuff"],
+        "Race":["Human", "Dragon"],
+        "Class":["Knight"],
+        "Ulti":"Transforms into a powerful dragon form  granting additional 2 grids of attack range and (100/150/200) attack damage. Dealing magical damage to enemý units (In splash after lvl 2) over time to the target by attacking.",
+        "CD" : ["60", "60", "60"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Tortola Elder",
+        "Dota Name": "Keeper of the Light",
+        "Lvl 1":  {
+          "Price": 4,
+          "HP": 650,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" :42,
+          "ATK Speed": 1.7
+        },
+        "Lvl 2":  {
+          "Price": 6,
+          "HP": 1300,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 85,
+          "ATK Speed": 1.7
+        },
+        "Lvl 3":  {
+          "Price": 8,
+          "HP": 2600,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 170,
+          "ATK Speed": 1.7
+        },
+        "ATK Range": 4,
+        "Tags" : ["Nuker"],
+        "Race":["Human"],
+        "Class":["Mage"],
+        "Ulti":"Channels for at most 3s then release a pulsing wave dealing at most (300/450/600) magical damage to enemy units in its path.",
+        "CD" : ["10", "8", "6"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Venomancer",
+        "Dota Name": "Alchemist",
+        "Lvl 1":  {
+          "Price": 4,
+          "HP": 1000,
+          "Armor": 0,
+          "Magic Resist": 0,
+          "ATK" :65,
+          "ATK Speed": 1.3
+        },
+        "Lvl 2":  {
+          "Price": 6,
+          "HP": 2000,
+          "Armor": 0,
+          "Magic Resist": 0,
+          "ATK" : 130,
+          "ATK Speed": 1.3
+        },
+        "Lvl 3":  {
+          "Price": 8,
+          "HP": 4000,
+          "Armor": 0,
+          "Magic Resist": 0,
+          "ATK" : 260,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 1,
+        "Tags" : ["Escape"],
+        "Race":["Goblin"],
+        "Class":["Warlock"],
+        "Ulti":"Enters a chemically induced rage, reduce base attack cd to (0.7/0.55/0.4), and grant bonus health regen for (40/60/80) per second, last 60s",
+        "CD" : ["60", "60", "60"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Doom Arbiter",
+        "Dota Name": "Doom",
+        "Lvl 1":  {
+          "Price": 4,
+          "HP": 950,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" :115,
+          "ATK Speed": 1.3
+        },
+        "Lvl 2":  {
+          "Price": 6,
+          "HP": 1900,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 230,
+          "ATK Speed": 1.3
+        },
+        "Lvl 3":  {
+          "Price": 8,
+          "HP": 3800,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 460,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 1,
+        "Tags" : ["Disabler", "Carry"],
+        "Race":["Demon"],
+        "Class":["Warrior"],
+        "Ulti":"Silence an enemy piece, dealing (60/90/120) pure damage in (10/15/20) seconds.",
+        "CD" : ["10", "10", "10"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Shining Assasin",
+        "Dota Name": "Templar Assasin",
+        "Lvl 1":  {
+          "Price": 4,
+          "HP": 750,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" :100,
+          "ATK Speed": 1.2
+        },
+        "Lvl 2":  {
+          "Price": 6,
+          "HP": 1500,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 200,
+          "ATK Speed": 1.2
+        },
+        "Lvl 3":  {
+          "Price": 8,
+          "HP": 3000,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 400,
+          "ATK Speed": 1.2
+        },
+        "ATK Range": 3,
+        "Tags" : ["Escape", "Carry"],
+        "Race":["Feathered"],
+        "Class":["Assassin"],
+        "Ulti":"Gain (4/6/8) times of avoidance effects and (40/60/80) bonus to damage, last for 6s.",
+        "CD" : ["6", "6", "6"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Blight Sorcerer",
+        "Dota Name": "Rubick",
+        "Lvl 1":  {
+          "Price": 5,
+          "HP": 850,
+          "Armor": 5,
+          "Magic Resist": 20,
+          "ATK" :42,
+          "ATK Speed": 1.5
+        },
+        "Lvl 2":  {
+          "Price": 7,
+          "HP": 1700,
+          "Armor": 5,
+          "Magic Resist": 20,
+          "ATK" : 85,
+          "ATK Speed": 1.5
+        },
+        "Lvl 3":  {
+          "Price": 9,
+          "HP": 3400,
+          "Armor": 5,
+          "Magic Resist": 20,
+          "ATK" : 170,
+          "ATK Speed": 2.0
+        },
+        "ATK Range": 3,
+        "Tags" : ["Nuker", "Debuff"],
+        "Race":["Egersis"],
+        "Class":["Mage"],
+        "Ulti":"Release an blighted orb taht bounce between enemy units to (6/9/12) times, dealing (250/350/450) magical damage  and slowing 65% enemy attack speed for 2.5s.",
+        "CD" : ["10", "8", "6"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Tsunami Stalker",
+        "Dota Name": "Tidehunter",
+        "Lvl 1":  {
+          "Price": 5,
+          "HP": 950,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" :50,
+          "ATK Speed": 2.0
+        },
+        "Lvl 2":  {
+          "Price": 7,
+          "HP": 1900,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 100,
+          "ATK Speed": 2.0
+        },
+        "Lvl 3":  {
+          "Price": 9,
+          "HP": 3800,
+          "Armor": 5,
+          "Magic Resist": 0,
+          "ATK" : 200,
+          "ATK Speed": 2.0
+        },
+        "ATK Range": 3,
+        "Tags" : ["Disabler"],
+        "Race":["Marine"],
+        "Class":["Hunter"],
+        "Ulti":"Slam the ground, causing the tentacles to erupt in all directions and in at most (3/5/6) radius, dealing (100/200/300) magical damage and stunning enemy units for 2s.",
+        "CD" : ["30", "30", "30"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Helicopter",
+        "Dota Name": "Tidehunter",
+        "Lvl 1":  {
+          "Price": 5,
+          "HP": 900,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" :77,
+          "ATK Speed": 0.9
+        },
+        "Lvl 2":  {
+          "Price": 7,
+          "HP": 1800,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 155,
+          "ATK Speed": 0.9
+        },
+        "Lvl 3":  {
+          "Price": 9,
+          "HP": 3600,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 310,
+          "ATK Speed": 0.9
+        },
+        "ATK Range": 3,
+        "Tags" : ["Nuker", "Carry"],
+        "Race":["Dwarf"],
+        "Class":["Mech"],
+        "Ulti":"Call down 2 aerial missiles strike enemy unit in 4 radius. Each of them deals (200/300/400) magical damage.",
+        "CD" : ["15", "15", "15"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Devastator",
+        "Dota Name": "Techies",
+        "Lvl 1":  {
+          "Price": 5,
+          "HP": 1000,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" :50,
+          "ATK Speed": 1.5
+        },
+        "Lvl 2":  {
+          "Price": 7,
+          "HP": 2000,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 100,
+          "ATK Speed": 1.5
+        },
+        "Lvl 3":  {
+          "Price": 9,
+          "HP": 4000,
+          "Armor": 10,
+          "Magic Resist": 0,
+          "ATK" : 200,
+          "ATK Speed": 1.5
+        },
+        "ATK Range": 3,
+        "Tags" : ["Nuker"],
+        "Race":["Goblin"],
+        "Class":["Mech"],
+        "Ulti":"Plant an explosive that will detonate after 3s and deal (700/1100/1500) physical damage to enemy units in 4 radius.",
+        "CD" : ["15", "15", "15"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "Dark Spirit",
+        "Dota Name": "Enigma",
+        "Lvl 1":  {
+          "Price": 5,
+          "HP": 1000,
+          "Armor": 5,
+          "Magic Resist": 40,
+          "ATK" :50,
+          "ATK Speed": 1.5
+        },
+        "Lvl 2":  {
+          "Price": 7,
+          "HP": 2000,
+          "Armor": 5,
+          "Magic Resist": 40,
+          "ATK" : 100,
+          "ATK Speed": 1.5
+        },
+        "Lvl 3":  {
+          "Price": 9,
+          "HP": 4000,
+          "Armor": 5,
+          "Magic Resist": 40,
+          "ATK" : 200,
+          "ATK Speed": 1.5
+        },
+        "ATK Range": 3,
+        "Tags" : ["Carry"],
+        "Race":["Spirits"],
+        "Class":["Warlock"],
+        "Ulti":"Enemy units in 3 radius will lose (4/6/8)% percentage of their max health every second. It lasts for 10s.",
+        "CD" : ["20", "20", "20"] 
+      }
+    },
+    {"data":
+      {
+        "Name": "God of Thunder",
+        "Dota Name": "Zeus",
+        "Lvl 1":  {
+          "Price": 5,
+          "HP": 950,
+          "Armor": 0,
+          "Magic Resist": 40,
+          "ATK" :60,
+          "ATK Speed": 1.4
+        },
+        "Lvl 2":  {
+          "Price": 7,
+          "HP": 1900,
+          "Armor": 0,
+          "Magic Resist": 40,
+          "ATK" : 120,
+          "ATK Speed": 1.4
+        },
+        "Lvl 3":  {
+          "Price": 9,
+          "HP": 3800,
+          "Armor": 0,
+          "Magic Resist": 40,
+          "ATK" : 240,
+          "ATK Speed": 1.4
+        },
+        "ATK Range": 3,
+        "Tags" : ["Nuker"],
+        "Race":["Divinity"],
+        "Class":["Mage"],
+        "Ulti":"Summons thunder to punish at least 1 enemy piece, and hasa  50% chance of dealing magical damage equals to (15%+300/25%+400/35%+500) of the target pieces remaining HP to it.",
+        "CD" : ["20", "20", "20"] 
+      }
+    }
+  ]
+}
