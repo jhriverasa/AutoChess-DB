@@ -5,9 +5,9 @@ class Footer extends Component{
         return (
             
                 <Jumbotron>
-                    <h3>dummy Footer</h3>
+                    <h3>Created by Zkor</h3>
                     <p>
-                        BLABLABLA
+                        Thanks to Knightly.app  
                     </p>
                 </Jumbotron>
 

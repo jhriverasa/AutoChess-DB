@@ -6,10 +6,10 @@ class NavigationBar extends Component {
         return (
           <div>
             <Navbar bg="dark" variant="dark">
-              <Navbar.Brand href="#home">AC-MU</Navbar.Brand>
+              <Navbar.Brand >Auto Chess Mobile Utilities</Navbar.Brand>
               <Nav className="mr-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
-                <Nav.Link href="#features">Characters</Nav.Link>
+                <Nav.Link href="#heroes">heroes</Nav.Link>
                 <Nav.Link href="#about">About</Nav.Link>
               </Nav>
             </Navbar>
