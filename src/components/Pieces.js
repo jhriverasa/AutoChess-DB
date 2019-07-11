@@ -13,7 +13,7 @@ class Pieces extends Component {
                 {   
                     dataPieces.pieces.map((piece)=>{
                         return <HeroFrame 
-                                    key={piece.data.name}
+                                    key={piece.data.Id}
                                     heroName= {piece.data.Name} 
                                     imgSrc= {utils.getImgSrcFrame(piece.data.Name)}
                                 />

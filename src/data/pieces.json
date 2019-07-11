@@ -3,6 +3,7 @@
     {"data":
       
       {
+        "Id": "1",
         "Name": "Redaxe Chief",
         "Dota Name": "Axe",
         "Lvl 1":  {
@@ -41,6 +42,7 @@
     {"data":
       
       {
+        "Id": "2",
         "Name": "Tusk Champion",
         "Dota Name": "Tusk",
         "Lvl 1":  {
@@ -76,6 +78,7 @@
     {"data":
       
       {
+        "Id": "3",
         "Name": "Unicorn",
         "Dota Name": "Enchantress",
         "Lvl 1":  {
@@ -114,6 +117,7 @@
     {"data":
       
       {
+        "Id": "4",
         "Name": "Frost Knight",
         "Dota Name": "Batrider",
         "Lvl 1":  {
@@ -152,6 +156,7 @@
     {"data":
       
       {
+        "Id": "5",
         "Name": "Defector",
         "Dota Name": "Shadow Shaman",
         "Lvl 1":  {
@@ -190,6 +195,7 @@
     {"data":
       
       {
+        "Id": "6",
         "Name":"Egersis Ranger",
         "Dota Name": "Drow Ranger",
         "Lvl 1":  {
@@ -227,6 +233,7 @@
     },
     {"data":
       {
+        "Id": "7",
         "Name": "Soul Breaker",
         "Dota Name": "Bounty hunter",
         "Lvl 1":  {
@@ -264,6 +271,7 @@
     },
     {"data":
       {
+        "Id": "8",
         "Name": "Sky Breaker",
         "Dota Name": "Clockwerk",
         "Lvl 1":  {
@@ -301,6 +309,7 @@
     },
     {"data":
       {
+        "Id": "9",
         "Name": "Heaven Bomber",
         "Dota Name": "Tinker",
         "Lvl 1":  {
@@ -338,6 +347,7 @@
     },
     {"data":
       {
+        "Id": "10",
         "Name": "Taboo Witcher",
         "Dota Name": "Antimage",
         "Lvl 1":  {
@@ -375,6 +385,7 @@
     },
     {"data":
       {
+        "Id": "11",
         "Name": "Ogre Mage",
         "Dota Name": "Ogre Magi",
         "Lvl 1":  {
@@ -411,6 +422,7 @@
     },
     {"data":
       {
+        "Id": "12",
         "Name": "Stone Spirit",
         "Dota Name": "Tiny",
         "Lvl 1":  {
@@ -447,6 +459,7 @@
     },
     {"data":
       {
+        "Id": "13",
         "Name": "God of War",
         "Dota Name": "Mars",
         "Lvl 1":  {
@@ -483,6 +496,7 @@
     },
     {"data":
       {
+        "Id": "14",
         "Name": "Swordman",
         "Dota Name": "Juggernaut",
         "Lvl 1":  {
@@ -519,6 +533,7 @@
     },
     {"data":
       {
+        "Id": "15",
         "Name": "Skull Hunter",
         "Dota Name": "Beastmaster",
         "Lvl 1":  {
@@ -555,6 +570,7 @@
     },
     {"data":
       {
+        "Id": "16",
         "Name": "Desperate Doctor",
         "Dota Name": "Witch Doctor",
         "Lvl 1":  {
@@ -591,6 +607,7 @@
     },
     {"data":
       {
+        "Id": "17",
         "Name": "Abyssal Guard",
         "Dota Name": "Slardar",
         "Lvl 1":  {
@@ -627,6 +644,7 @@
     },
     {"data":
       {
+        "Id": "18",
         "Name": "Abyssalcrawler",
         "Dota Name": "Slark",
         "Lvl 1":  {
@@ -663,6 +681,7 @@
     },
     {"data":
       {
+        "Id": "19",
         "Name": "The Source",
         "Dota Name": "Crystal Maiden",
         "Lvl 1":  {
@@ -699,6 +718,7 @@
     },
     {"data":
       {
+        "Id": "20",
         "Name": "Shining Dragon",
         "Dota Name": "Puck",
         "Lvl 1":  {
@@ -735,6 +755,7 @@
     },
     {"data":
       {
+        "Id": "21",
         "Name": "Ripper",
         "Dota Name": "Timbersaw",
         "Lvl 1":  {
@@ -771,6 +792,7 @@
     },
     {"data":
       {
+        "Id": "22",
         "Name": "Hell Knight",
         "Dota Name": "Chaos Knight",
         "Lvl 1":  {
@@ -807,6 +829,7 @@
     },
     {"data":
       {
+        "Id": "23",
         "Name": "Phantom Queen",
         "Dota Name": "Queen of Pain",
         "Lvl 1":  {
@@ -843,6 +866,7 @@
     },
     {"data":
       {
+        "Id": "24",
         "Name": "Lightblade Knight",
         "Dota Name": "Luna",
         "Lvl 1":  {
@@ -879,6 +903,7 @@
     },
     {"data":
       {
+        "Id": "25",
         "Name": "Wisper Seer",
         "Dota Name": "Nature's prophet",
         "Lvl 1":  {
@@ -915,6 +940,7 @@
     },
     {"data":
       {
+        "Id": "26",
         "Name": "Water Spirit",
         "Dota Name": "Morphling",
         "Lvl 1":  {
@@ -951,6 +977,7 @@
     },
     {"data":
       {
+        "Id": "27",
         "Name": "Lord of Sand",
         "Dota Name": "Sand king",
         "Lvl 1":  {
@@ -987,6 +1014,7 @@
     },
     {"data":
       {
+        "Id": "28",
         "Name": "Poisonous worm",
         "Dota Name": "Venomancer",
         "Lvl 1":  {
@@ -1023,6 +1051,7 @@
     },
     {"data":
       {
+        "Id": "29",
         "Name": "Evil Knight",
         "Dota Name": "Abaddon",
         "Lvl 1":  {
@@ -1059,6 +1088,7 @@
     },
     {"data":
       {
+        "Id": "30",
         "Name": "Werewolf",
         "Dota Name": "Lycan",
         "Lvl 1":  {
@@ -1095,6 +1125,7 @@
     },
     {"data":
       {
+        "Id": "31",
         "Name": "Argali Knight",
         "Dota Name": "Chen",
         "Lvl 1":  {
@@ -1131,6 +1162,7 @@
     },
     {"data":
       {
+        "Id": "32",
         "Name": "Flamming Wizard",
         "Dota Name": "Lina",
         "Lvl 1":  {
@@ -1167,6 +1199,7 @@
     },
     {"data":
       {
+        "Id": "33",
         "Name": "Venom",
         "Dota Name": "Viper",
         "Lvl 1":  {
@@ -1203,6 +1236,7 @@
     },
     {"data":
       {
+        "Id": "34",
         "Name": "Dwarf Sniper",
         "Dota Name": "Sniper",
         "Lvl 1":  {
@@ -1239,6 +1273,7 @@
     },
     {"data":
       {
+        "Id": "35",
         "Name": "Shadow Devil",
         "Dota Name": "Shadow Fiend",
         "Lvl 1":  {
@@ -1275,6 +1310,7 @@
     },
     {"data":
       {
+        "Id": "36",
         "Name": "Fallen Witcher",
         "Dota Name": "Terrorblade",
         "Lvl 1":  {
@@ -1305,12 +1341,13 @@
         "Tags" : ["Carry"],
         "Race":["Demon"],
         "Class":["Witcher"],
-        "Ulti":"Exchanges current HP with an allid piece and transforms into a powerful form with a ranged attac, granting him bonus +(50/75/100)% attack speed and +(100/150/200) dmg for 60s upon transformation.",
+        "Ulti":"Exchanges current HP with an allied piece and transforms into a powerful form with a ranged attac, granting him bonus +(50/75/100)% attack speed and +(100/150/200) dmg for 60s upon transformation.",
         "CD" : ["60", "60", "60"] 
       }
     },
     {"data":
       {
+        "Id": "37",
         "Name": "Wind Ranger",
         "Dota Name": "Windranger",
         "Lvl 1":  {
@@ -1347,6 +1384,7 @@
     },
     {"data":
       {
+        "Id": "38",
         "Name": "Shadowcrawler",
         "Dota Name": "Phantom Assassin",
         "Lvl 1":  {
@@ -1383,6 +1421,7 @@
     },
     {"data":
       {
+        "Id": "39",
         "Name": "Warpwood sage",
         "Dota Name": "Treant Protector",
         "Lvl 1":  {
@@ -1419,6 +1458,7 @@
     },
     {"data":
       {
+        "Id": "40",
         "Name": "Thunder Spirit",
         "Dota Name": "Razor",
         "Lvl 1":  {
@@ -1455,6 +1495,7 @@
     },
     {"data":
       {
+        "Id": "41",
         "Name": "Storm Shaman",
         "Dota Name": "Disruptor",
         "Lvl 1":  {
@@ -1491,6 +1532,7 @@
     },
     {"data":
       {
+        "Id": "42",
         "Name": "Razorclaw",
         "Dota Name": "Lone Druid",
         "Lvl 1":  {
@@ -1527,6 +1569,7 @@
     },
     {"data":
       {
+        "Id": "43",
         "Name": "Berserker",
         "Dota Name": "Troll Warlord",
         "Lvl 1":  {
@@ -1563,6 +1606,7 @@
     },
     {"data":
       {
+        "Id": "44",
         "Name": "Soul Reaper",
         "Dota Name": "Necrophos",
         "Lvl 1":  {
@@ -1599,6 +1643,7 @@
     },
     {"data":
       {
+        "Id": "45",
         "Name": "Siren",
         "Dota Name": "Medusa",
         "Lvl 1":  {
@@ -1635,6 +1680,7 @@
     },
     {"data":
       {
+        "Id": "46",
         "Name": "Pirate Captain",
         "Dota Name": "Kunkka",
         "Lvl 1":  {
@@ -1671,6 +1717,7 @@
     },
     {"data":
       {
+        "Id": "47",
         "Name": "Dragon Knight",
         "Dota Name": "Dragon Knight",
         "Lvl 1":  {
@@ -1707,6 +1754,7 @@
     },
     {"data":
       {
+        "Id": "48",
         "Name": "Tortola Elder",
         "Dota Name": "Keeper of the Light",
         "Lvl 1":  {
@@ -1743,6 +1791,7 @@
     },
     {"data":
       {
+        "Id": "49",
         "Name": "Venomancer",
         "Dota Name": "Alchemist",
         "Lvl 1":  {
@@ -1779,6 +1828,7 @@
     },
     {"data":
       {
+        "Id": "50",
         "Name": "Doom Arbiter",
         "Dota Name": "Doom",
         "Lvl 1":  {
@@ -1815,8 +1865,9 @@
     },
     {"data":
       {
-        "Name": "Shining Assasin",
-        "Dota Name": "Templar Assasin",
+        "Id": "51",
+        "Name": "Shining Assassin",
+        "Dota Name": "Templar Assassin",
         "Lvl 1":  {
           "Price": 4,
           "HP": 750,
@@ -1851,6 +1902,7 @@
     },
     {"data":
       {
+        "Id": "52",
         "Name": "Blight Sorcerer",
         "Dota Name": "Rubick",
         "Lvl 1":  {
@@ -1887,6 +1939,7 @@
     },
     {"data":
       {
+        "Id": "53",
         "Name": "Tsunami Stalker",
         "Dota Name": "Tidehunter",
         "Lvl 1":  {
@@ -1923,6 +1976,7 @@
     },
     {"data":
       {
+        "Id": "54",
         "Name": "Helicopter",
         "Dota Name": "Tidehunter",
         "Lvl 1":  {
@@ -1959,6 +2013,7 @@
     },
     {"data":
       {
+        "Id": "55",
         "Name": "Devastator",
         "Dota Name": "Techies",
         "Lvl 1":  {
@@ -1995,6 +2050,7 @@
     },
     {"data":
       {
+        "Id": "56",
         "Name": "Dark Spirit",
         "Dota Name": "Enigma",
         "Lvl 1":  {
@@ -2031,6 +2087,7 @@
     },
     {"data":
       {
+        "Id": "57",
         "Name": "God of Thunder",
         "Dota Name": "Zeus",
         "Lvl 1":  {
@@ -2063,6 +2120,35 @@
         "Class":["Mage"],
         "Ulti":"Summons thunder to punish at least 1 enemy piece, and hasa  50% chance of dealing magical damage equals to (15%+300/25%+400/35%+500) of the target pieces remaining HP to it.",
         "CD" : ["20", "20", "20"] 
+      }
+    },
+    {"data":
+      {
+        "Id": "58",
+        "Name": "Strange Egg",
+        "Dota Name": "IO",
+        "Lvl 1":  {
+          "Price": 5,
+          "HP": 700,
+          "Armor": 0,
+          "Magic Resist": 0,
+          "ATK" :50,
+          "ATK Speed": 1.3
+        },
+        "Lvl 2":  {
+          "Price": 7,
+          "HP": 1400,
+          "Armor": 0,
+          "Magic Resist": 0,
+          "ATK" : 100,
+          "ATK Speed": 1.3
+        },
+        "ATK Range": 3,
+        "Tags" : ["Nuker"],
+        "Race":["Feathered"],
+        "Class":["NONE"],
+        "Ulti":"If you need 1 piece to rank up your (1-star/2-stars) piece, drag the Strange Egg to the target piece and it'll be whatever you want it to be.",
+        "CD" : ["Passive", "Passive", "Passive"] 
       }
     }
   ]
