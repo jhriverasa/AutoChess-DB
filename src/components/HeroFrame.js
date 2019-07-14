@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Figure from 'react-bootstrap/Figure';
-
 class HeroFrame extends Component{
 
     render(){
@@ -8,16 +7,18 @@ class HeroFrame extends Component{
 
         return(
             <Figure>
-            <Figure.Image 
-                width={75}
-                height = {75}
-                alt={this.props.heroName}
-                src={this.props.imgSrc}
-            />
-            <Figure.Caption>
-                {this.props.heroName}
-            </Figure.Caption>
-            </Figure>
+                <Figure.Image 
+                    src={this.props.imgSrc}
+                    alt={this.props.heroName}
+                    width={75}
+                    height = {75}
+                    className = "HeroFrame-frame"
+                    rounded
+                    fluid
+                />
+                <Figure.Caption className= "HeroFrame-frame-caption">{this.props.heroName}</Figure.Caption>
+              </Figure>
+           
         )
         
     }

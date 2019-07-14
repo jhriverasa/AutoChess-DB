@@ -1,17 +1,37 @@
 import React, { Component } from 'react';
-import Jumbotron from 'react-bootstrap/Jumbotron';
+
 class Footer extends Component{
+
+    
     render(){
+        
         return (
             
-                <Jumbotron>
-                    <h3>Created by Zkor</h3>
-                    <p>
-                        Thanks to Knightly.app  
-                    </p>
-                </Jumbotron>
+            <footer>
+                <br></br>
+                <img 
+                    src= "./static/img/contact/facebook-logo.svg"
+                    height = "60"
+                    width = "50"
+                    alt= "Facebook"
+                ></img>
+                <img 
+                    src= "./static/img/contact/twitter-logo.svg"
+                    height = "60"
+                    width = "50"
+                    alt= "Twitter"
+                ></img>
+                <img 
+                    src= "./static/img/contact/autochess-logo.png"
+                    height = "60"
+                    width = "100"
+                    alt= "Autochess"
+                ></img>
+                
+            </footer>
 
             
+        
         );
     }
 }
