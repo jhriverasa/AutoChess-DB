@@ -4,6 +4,7 @@ import NavigationBar from './components/NavigationBar/NavigationBar';
 import Footer from './components/Footer/Footer';
 import Pieces from './components/Views/Heroes/Pieces';
 
+
 function App() {
   return (
       <div className="App">
