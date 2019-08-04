@@ -11,16 +11,15 @@
 
 }
 
+.footerBtn{
+  margin: 1% 1%;
+  
+}
+
 body{
  /* gradient background*/
-  background: rgba(13,22,49,1);
-  background: -moz-radial-gradient(center, ellipse cover, rgba(13,22,49,1) 0%, rgba(13,22,49,1) 25%, rgba(31,41,71,1) 100%);
-  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(13,22,49,1)), color-stop(25%, rgba(13,22,49,1)), color-stop(100%, rgba(31,41,71,1)));
-  background: -webkit-radial-gradient(center, ellipse cover, rgba(13,22,49,1) 0%, rgba(13,22,49,1) 25%, rgba(31,41,71,1) 100%);
-  background: -o-radial-gradient(center, ellipse cover, rgba(13,22,49,1) 0%, rgba(13,22,49,1) 25%, rgba(31,41,71,1) 100%);
-  background: -ms-radial-gradient(center, ellipse cover, rgba(13,22,49,1) 0%, rgba(13,22,49,1) 25%, rgba(31,41,71,1) 100%);
-  background: radial-gradient(ellipse at center, rgba(13,22,49,1) 0%, rgba(13,22,49,1) 25%, rgba(31,41,71,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d1631', endColorstr='#1f2947', GradientType=1 );
+  background: rgba(31,41,71,1);
+  
 
   /* Font*/
   color: white;
@@ -43,6 +42,9 @@ body{
   font-family: 'Anton', sans-serif;
 }
 
+.NavLink{
+  margin: 4px 4px;
+}
 
 .HeroFrame-frame {
   margin: 15px 15px;
