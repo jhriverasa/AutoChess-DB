@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
-import HeroFrame from "./HeroFrame";
-import * as utils from "../utility/utils.js";
+import HeroFrame from "../Heroes/HeroFrame";
+import * as utils from "../../../utility/utils.js";
 
 class Pieces extends Component {
     
 
     render(){
-        var dataPieces = require('../data/pieces.json')
+        var dataPieces = require('../../../data/pieces.json')
         console.log(dataPieces);
         return (
             <div>

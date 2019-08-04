@@ -1,11 +1,29 @@
+/*pallete: https://coolors.co/app/0b132b-1c2541-3a506b-5bc0be-6fffe9*/
+
+
+/* Fonts
+  font-family: 'Anton', cursive;
+  font-family: 'Source Sans Pro', sans-serif;
+*/
+
 .App {
   text-align: center;
+
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.footerBtn{
+  margin: 1% 1%;
+  
+}
+
+body{
+ /* gradient background*/
+  background: rgba(31,41,71,1);
+  
+
+  /* Font*/
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .App-header {
@@ -19,19 +37,49 @@
   color: white;
 }
 
-Figure {
-  margin: 1% 1%;
+.navbar{
+  background-color: #0b132b;
+  font-family: 'Anton', sans-serif;
+}
+
+.NavLink{
+  margin: 4px 4px;
+}
+
+.HeroFrame-frame {
+  margin: 15px 15px;
+  border-style: solid;
+  border-color: goldenrod;
+  border-width: 1px;
+}
+
+.HeroFrame-frame-caption{
+  color: white;
+  font-size: 10pt;
 }
 
 .App-link {
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:80px;   /* Height of the footer */
+
+
+ 
+
+  background: rgba(11,19,43,1);
+  background: -moz-linear-gradient(-45deg, rgba(11,19,43,1) 0%, rgba(21,27,48,1) 100%);
+  background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(11,19,43,1)), color-stop(100%, rgba(21,27,48,1)));
+  background: -webkit-linear-gradient(-45deg, rgba(11,19,43,1) 0%, rgba(21,27,48,1) 100%);
+  background: -o-linear-gradient(-45deg, rgba(11,19,43,1) 0%, rgba(21,27,48,1) 100%);
+  background: -ms-linear-gradient(-45deg, rgba(11,19,43,1) 0%, rgba(21,27,48,1) 100%);
+  background: linear-gradient(135deg, rgba(11,19,43,1) 0%, rgba(21,27,48,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0b132b', endColorstr='#151b30', GradientType=1 );
+  
+
+  
 }
