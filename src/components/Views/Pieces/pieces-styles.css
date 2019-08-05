@@ -1,0 +1,24 @@
+.PieceFrame-frame {
+    margin: 10px 10px;
+    border-style: solid;
+    border-color: goldenrod;
+    border-width: 1px;
+  
+    -webkit-filter: grayscale(30%);
+      filter: grayscale(30%);
+      -webkit-transition: .3s ease-in-out;
+      transition: .3s ease-in-out;
+  }
+  
+  .PieceFrame-frame-caption{
+    /* Font*/
+    color: white;
+    font-size: 11pt;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  
+  .PieceFrame-frame:hover {
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+    transform: scale(1.3)
+  }

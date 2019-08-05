@@ -1,0 +1,25 @@
+.NewsFrame-frame {
+    margin: 30px;
+    border-style: solid;
+    border-color:#0b132bc2;
+    border-width: 2px;
+  
+    -webkit-filter: grayscale(70%);
+      filter: grayscale(70%);
+      -webkit-transition: .4s ease-in-out;
+      transition: .4s ease-in-out;
+  }
+
+  
+  .NewsFrame-frame:hover {
+    -webkit-filter: grayscale(0);
+    filter: grayscale(0);
+    transform: scale(1.1)
+  }
+
+  .NewsFrame-frame-caption{
+    /* Font*/
+    color: white;
+    font-size: 17pt;
+    font-family: 'Source Sans Pro', sans-serif;
+  }

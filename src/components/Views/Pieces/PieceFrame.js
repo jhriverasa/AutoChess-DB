@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Figure from 'react-bootstrap/Figure';
-class HeroFrame extends Component{
+class PieceFrame extends Component{
     constructor(props){
         super(props);
         this.handleOnMouseOver = this.handleOnMouseOver.bind(this);
@@ -18,14 +18,14 @@ class HeroFrame extends Component{
                 <Figure.Image 
                     onMouseOver={this.handleOnMouseOver}
                     src={this.props.imgSrc}
-                    alt={this.props.heroName}
+                    alt={this.props.PieceName}
                     width={100}
                     height = {100}
-                    className = "HeroFrame-frame"
+                    className = "PieceFrame-frame"
                     rounded
                     fluid
                 />
-                <Figure.Caption className= "HeroFrame-frame-caption">{this.props.heroName}</Figure.Caption>
+                <Figure.Caption className= "PieceFrame-frame-caption">{this.props.PieceName}</Figure.Caption>
               </Figure>
            
         )
@@ -34,4 +34,4 @@ class HeroFrame extends Component{
 
 }
 
-export default HeroFrame;
+export default PieceFrame;

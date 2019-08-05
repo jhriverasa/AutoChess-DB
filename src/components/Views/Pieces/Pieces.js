@@ -1,6 +1,8 @@
 import React, {Component} from 'react';
-import HeroFrame from "../Heroes/HeroFrame";
+import PieceFrame from "./PieceFrame";
 import * as utils from "../../../utility/utils.js";
+
+import './pieces-styles.css';
 
 class Pieces extends Component {
     
@@ -12,9 +14,9 @@ class Pieces extends Component {
             <div>
                 {   
                     dataPieces.pieces.map((piece)=>{
-                        return <HeroFrame 
+                        return <PieceFrame 
                                     key={piece.data.Id}
-                                    heroName= {piece.data.Name} 
+                                    PieceName= {piece.data.Name} 
                                     imgSrc= {utils.getImgSrcFrame(piece.data.Name)}
                                 />
                     })

@@ -11,19 +11,11 @@
 
 }
 
-.footerBtn{
-  margin: 1% 1%;
-  
-}
 
 body{
  /* gradient background*/
   background: rgba(31,41,71,1);
   
-
-  /* Font*/
-  color: white;
-  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .App-header {
@@ -37,80 +29,10 @@ body{
   color: white;
 }
 
-.navbar{
-  background-color: #0b132b;
-  font-family: 'Anton', sans-serif;
-  font-size: 150%;
-}
-
-.NavLink{
-  margin: 14px;
-  transition: .5s ease-in-out;
-}
-
-
-.HeroFrame-frame {
-  margin: 10px 10px;
-  border-style: solid;
-  border-color: goldenrod;
-  border-width: 1px;
-
-  -webkit-filter: grayscale(30%);
-    filter: grayscale(30%);
-    -webkit-transition: .3s ease-in-out;
-    transition: .3s ease-in-out;
-}
-
-
-.HeroFrame-frame:hover {
-  -webkit-filter: grayscale(0);
-  filter: grayscale(0);
-  transform: scale(1.3)
-}
-
-.footerBtn{
-
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
-  -webkit-transition: .3s ease-in-out;
-  transition: .3s ease-in-out;
-}
-
-.footerBtn:hover{
-  -webkit-filter: grayscale(0);
-  filter: grayscale(0);
-  transform: scale(1.1)
-}
-
-.HeroFrame-frame-caption{
-  color: white;
-  font-size: 10pt;
-}
 
 .App-link {
   color: #61dafb;
 }
 
-footer {
-  position: relative;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height:80px;   /* Height of the footer */
-  margin: 0% 0% 0% 0%; 
 
- 
 
-  
-  background: rgba(11,19,43,1);
-  background: -moz-linear-gradient(-45deg, rgba(11,19,43,1) 0%, rgba(21,27,48,1) 100%);
-  background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(11,19,43,1)), color-stop(100%, rgba(21,27,48,1)));
-  background: -webkit-linear-gradient(-45deg, rgba(11,19,43,1) 0%, rgba(21,27,48,1) 100%);
-  background: -o-linear-gradient(-45deg, rgba(11,19,43,1) 0%, rgba(21,27,48,1) 100%);
-  background: -ms-linear-gradient(-45deg, rgba(11,19,43,1) 0%, rgba(21,27,48,1) 100%);
-  background: linear-gradient(135deg, rgba(11,19,43,1) 0%, rgba(21,27,48,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0b132b', endColorstr='#151b30', GradientType=1 );
-  
-
-  
-}
