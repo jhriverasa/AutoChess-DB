@@ -9,7 +9,8 @@ class Footer extends Component{
             
             <footer>
 
-                <a href = "https://www.facebook.com/Auto-Chess-411330109632159/">
+                <a href = "https://www.facebook.com/Auto-Chess-411330109632159/"
+                 target="_blank" rel="noopener noreferrer"> 
                     <img className="footerBtn"
                         src= "./static/img/contact/facebook-logo.svg"
                         height = "60"
@@ -18,7 +19,8 @@ class Footer extends Component{
                     ></img>
                 </a>
 
-                <a href = "https://twitter.com/AutoChess2019?lang=es">
+                <a href = "https://twitter.com/AutoChess2019?lang=es" 
+                target="_blank" rel="noopener noreferrer">
                     <img className="footerBtn"
                         src= "./static/img/contact/twitter-logo.svg"
                         height = "60"
@@ -27,12 +29,14 @@ class Footer extends Component{
                     ></img>
                 </a>
 
-                <a href = "https://www.zizouqi.com/en.html">
+                <a href = "https://www.zizouqi.com/en.html" 
+                target="_blank" rel="noopener noreferrer">
                     <img className="footerBtn"
                         src= "./static/img/contact/autochess-logo.png"
                         height = "60"
                         width = "100"
                         alt= "Autochess"
+                        
                 ></img>
                 </a>
 

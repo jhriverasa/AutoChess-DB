@@ -40,17 +40,46 @@ body{
 .navbar{
   background-color: #0b132b;
   font-family: 'Anton', sans-serif;
+  font-size: 150%;
 }
 
 .NavLink{
-  margin: 4px 4px;
+  margin: 14px;
+  transition: .5s ease-in-out;
 }
 
+
 .HeroFrame-frame {
-  margin: 15px 15px;
+  margin: 10px 10px;
   border-style: solid;
   border-color: goldenrod;
   border-width: 1px;
+
+  -webkit-filter: grayscale(30%);
+    filter: grayscale(30%);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+
+.HeroFrame-frame:hover {
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
+  transform: scale(1.3)
+}
+
+.footerBtn{
+
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+
+.footerBtn:hover{
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
+  transform: scale(1.1)
 }
 
 .HeroFrame-frame-caption{
@@ -63,11 +92,12 @@ body{
 }
 
 footer {
-  position:absolute;
-  bottom:0;
-  width:100%;
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   height:80px;   /* Height of the footer */
-
+  margin: 0% 0% 0% 0%; 
 
  
 
