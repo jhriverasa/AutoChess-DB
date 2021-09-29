@@ -5,7 +5,7 @@
   "dependencies": {
     "animate.css": "^3.7.2",
     "bootstrap": "^4.3.1",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "lodash": "4.17.15",
     "lodash.template": "^4.5.0",
     "react": "^16.8.6",
